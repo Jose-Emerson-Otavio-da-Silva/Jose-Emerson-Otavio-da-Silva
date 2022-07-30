@@ -32,7 +32,7 @@
     <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 </div>
 
-Apaixonado por tecnologia e sempre buscando conhecimento a fim de ser um grande profissional de programação!
+Apaixonado por tecnologia e sempre buscando conhecimento a fim de ser um grande profissional da programação!
 
 ## Email: emersonr8@hotmail.com
 
