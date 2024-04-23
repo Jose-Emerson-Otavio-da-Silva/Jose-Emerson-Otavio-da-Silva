@@ -1,11 +1,15 @@
-### Prazer sou o José Emerson Otavio da Silva!✌️
+### Prazer me chamo José Emerson Otavio da Silva!✌️
+
+Apaixonado por tecnologia e sempre buscando conhecimento a fim de ser um grande profissional de programação!
 
 Desde cedo tive uma grande curiosidade pela tecnologia e paixão pela resolução de problemas. Estou me dedicando procurando por desafios, mergulhando em projetos práticos para aplicar meus conhecimentos teóricos, buscando sempre feedbacks construtivos e aproveitando cada oportunidade para aprimorar minhas habilidades, quero transformar desafios em chances de crescimento.
 
+## Conecte-se comigo
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/emerson.otavio.16)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emersonr80/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-emerson-otavio-da-silva-38820ba6/)
 
+## GitHub Stats
 ![Jose-Emerson-Otavio-da-Silv GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Emerson-Otavio-da-Silva&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia a dia.
@@ -15,7 +19,6 @@ Desde cedo tive uma grande curiosidade pela tecnologia e paixão pela resoluçã
 </div></Br>
 
 
-Apaixonado por tecnologia e sempre buscando conhecimento a fim de ser um grande profissional de programação!
 
 ## Email:
 emersonr8@hotmail.com
